@@ -1,0 +1,10 @@
+D:\C#\Year2C#\Exchange_money\Exchange_money\bin\Debug\Exchange_money.exe.config
+D:\C#\Year2C#\Exchange_money\Exchange_money\bin\Debug\Exchange_money.exe
+D:\C#\Year2C#\Exchange_money\Exchange_money\bin\Debug\Exchange_money.pdb
+D:\C#\Year2C#\Exchange_money\Exchange_money\obj\Debug\Exchange_money.csproj.AssemblyReference.cache
+D:\C#\Year2C#\Exchange_money\Exchange_money\obj\Debug\Exchange_money.Form1.resources
+D:\C#\Year2C#\Exchange_money\Exchange_money\obj\Debug\Exchange_money.Properties.Resources.resources
+D:\C#\Year2C#\Exchange_money\Exchange_money\obj\Debug\Exchange_money.csproj.GenerateResource.cache
+D:\C#\Year2C#\Exchange_money\Exchange_money\obj\Debug\Exchange_money.csproj.CoreCompileInputs.cache
+D:\C#\Year2C#\Exchange_money\Exchange_money\obj\Debug\Exchange_money.exe
+D:\C#\Year2C#\Exchange_money\Exchange_money\obj\Debug\Exchange_money.pdb
